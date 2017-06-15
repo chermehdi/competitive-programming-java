@@ -8,3 +8,5 @@ This is the material for the course competitive programming with Java
   * [tutorial - 01](https://javameweb.wordpress.com/2017/06/10/competitive-programming-with-java-io)
 
   * [tutorial -02](https://javameweb.wordpress.com/2017/06/12/competitive-programming-with-java-collections-01)
+
+  * [tutorial -03](https://javameweb.wordpress.com/2017/06/15/competitive-programming-with-java-collections-02/)
