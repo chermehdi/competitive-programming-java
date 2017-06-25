@@ -13,3 +13,9 @@ This is the material for the course competitive programming with Java
   * [tutorial -01](https://javameweb.wordpress.com/2017/06/12/competitive-programming-with-java-collections-01)
 
   * [tutorial -02](https://javameweb.wordpress.com/2017/06/15/competitive-programming-with-java-collections-02/)
+
+## 03 - Java Helper Functions
+
+  * [tutorial -01](https://javameweb.wordpress.com/2017/06/23/competitive-programming-with-java-helper-functions-01/)
+
+  * [tutorial -02](https://javameweb.wordpress.com/2017/06/25/competitive-programming-with-java-helper-functions-02/)
