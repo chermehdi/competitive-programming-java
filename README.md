@@ -22,4 +22,4 @@ This is the material for the course competitive programming with Java
 
 ## 04 - Testing and Debuggin
 
-    [tutorial - 01] (https://javameweb.wordpress.com/2017/07/02/competitive-programming-with-java-debugging-testing/)
+  * [tutorial - 01](https://javameweb.wordpress.com/2017/07/02/competitive-programming-with-java-debugging-testing/)
