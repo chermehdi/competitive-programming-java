@@ -55,7 +55,7 @@ public class ArrayUtilsExample {
 
         // copy of given range
         Integer[] range = Arrays.copyOfRange(arr, 0, 4);
-        // creates a copy of the array starting from the beginning
+        // creates  a copy of the array starting from the beginning
         // if the given length is bigger than the size of the original array
         // null are used to fill the res
         Integer[] integers = Arrays.copyOf(arr, 3);
@@ -91,6 +91,7 @@ public class ArrayUtilsExample {
         // this constructs a prefix array, based on the passed function (in this example a prefix sum array)
         // it's faster for really large arrays
         Arrays.parallelPrefix(arr, (a, b) -> a + b);
+        Arrays.para
     }
 
 }

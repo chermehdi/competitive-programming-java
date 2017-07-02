@@ -68,7 +68,7 @@ public class CollectionUtilsExample {
         // reverse the order of the elements in the list
         Collections.reverse(list);
         // rotate the elements in the list by the given distance
-        // the element in index i will be the element previously at index (i - dist + size) % size after the rotation
+        // the element  in index i will be the element previously at index (i - dist + size) % size after the rotation
         Collections.rotate(list, 2);
         // returns the maximum/minimum element of the list, based on the natural order
         // you can specify a comparator as a second parameter to add costume logic
